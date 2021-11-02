@@ -2,10 +2,10 @@ import tweepy
 
 print('looking at tweets')
 
-CONSUMER_KEY = 'Xhv7EGdZUVZWC8gvGkjFgdakQ'
-CONSUMER_SECRET = 'Ogn6YGJBmCjIk2js3l5o9v2n8oHFtmoNiUNbdVhQLK3WBS2kDL'
-ACCESS_TOKEN = '191992412-wvCA4wTU8tQv3gjUEIj3v2TyKgTo1y0dIHjLpKdQ'
-ACCESS_TOKEN_SECRET = 'UmymnKUP4EJPs4rIPFcpmo7kV1XHps5p28NoYeYrPGw10'
+CONSUMER_KEY = 'Please insert token/key here'
+CONSUMER_SECRET = 'Please insert token/key here'
+ACCESS_TOKEN = 'Please insert token/key here'
+ACCESS_TOKEN_SECRET = 'Please insert token/key here'
 
 
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
